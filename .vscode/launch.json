@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PositiveNegativeCheck",
+            "request": "launch",
+            "mainClass": "assignment1.PositiveNegativeCheck",
+            "projectName": "java_401102f9"
+        },
+        {
+            "type": "java",
             "name": "ArraySumAndAverage",
             "request": "launch",
             "mainClass": "assignment1.ArraySumAndAverage",
